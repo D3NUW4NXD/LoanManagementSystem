@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GroupR_LoanManagement/GroupR_LoanManagement.vcxproj" />
+</Solution>
